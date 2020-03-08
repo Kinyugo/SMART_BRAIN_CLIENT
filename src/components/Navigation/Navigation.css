@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.logo-name{
+    justify-self: flex-start;
+    margin-right: auto;
+    font-family: 'Petit Formal Script', cursive 'Cassandra';
+}
+

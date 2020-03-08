@@ -1,0 +1,6 @@
+.signin-form{
+background-image:url(https://images.unsplash.com/photo-1536274346713-b41f4d9553a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80);   
+}
+#overlay{
+    box-shadow: -1px 1px 7px 5px rgb(0, 0, 0, .5);
+}
